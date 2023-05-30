@@ -1,6 +1,6 @@
 'use strict';
 
-const {
+const  {
   es5Paths,
   esNextPaths,
 } = require('./scripts/shared/pathsByLanguageVersion');
